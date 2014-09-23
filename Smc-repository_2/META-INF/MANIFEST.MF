@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Smc-repository_2
+Bundle-SymbolicName: Smc-repository_2;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.ui.views;bundle-version="3.6.100",
+ org.eclipse.jface.text;bundle-version="3.8.101",
+ org.eclipse.core.resources;bundle-version="3.8.101",
+ org.eclipse.ui.editors;bundle-version="3.8.100",
+ org.eclipse.ui.ide;bundle-version="3.9.2"
